@@ -1,0 +1,162 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Literature"
+    },
+    {
+      "id": 2,
+      "categoryName": "Philosophy"
+    },
+    {
+      "id": 3,
+      "categoryName": "Self-improvement"
+    },
+    {
+      "id": 4,
+      "categoryName": "Novel"
+    },
+    {
+      "id": "8",
+      "categoryName": "Taha"
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "Şimdi'nin Gücü",
+      "editor": "Flipper Yayınları",
+      "image": "https://i.dr.com.tr/cache/500x400-0/originals/0000000104045-1.jpg",
+      "price": 28 ,
+      "unitInStock": 10,
+      "author": "Eckhart Tolle"
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "name": "Yaratıcı Tür",
+      "editor": "Martı Yayınları",
+      "image": "https://content.babil.com/urun/9dfc48492c6a441993af84a34217b30c/Front/Big",
+      "price": 43 ,
+      "unitInStock": 10,
+      "author": "David Eagleman"
+    },
+    {
+      "id": 3,
+      "categoryId": 3,
+      "name": "Duygusal Zeka",
+      "editor": "Flipper Yayınları",
+      "image": "https://www.kitapsec.com/image/urun/2016/03/11/Resim_1457701499.jpg",
+      "price": 33,
+      "unitInStock": 10,
+      "author": "Danıel Goleman"
+    },
+    {
+      "id": 4,
+      "categoryId": 4,
+      "name": "Mai ve Siyah",
+      "editor": "Akis Kitap",
+      "image": "https://i.dr.com.tr/cache/500x400-0/originals/0000000683683-1.jpg",
+      "price": 40,
+      "unitInStock": 10,
+      "author": "Halid Ziya Uşaklıgil"
+    },
+    {
+      "id": 5,
+      "categoryId": 4,
+      "name": "Hayvan Çiftliği",
+      "editor": "Ema Çocuk",
+      "image": "https://i.dr.com.tr/cache/600x600-0/originals/0000000105409-1.jpg",
+      "price": 40,
+      "unitInStock": 10,
+      "author": "George Orwel"
+    },
+    {
+      "categoryId": 4,
+      "name": "Akşam Yıldızı",
+      "editor": "İnsan Yayınları",
+      "image": "https://st3.myideasoft.com/shop/aa/11/myassets/products/012/aksam-yildizi-iskender-pala-bir-gobeklitepe-romani-kapi-yayinlarikitap-takipcileri-konya-elif-kitabevi-konya-roman-yerli-son-cikan-satin-al-siparis.jpg?revision=1581631251",
+      "price": 50,
+      "unitInStock": 28,
+      "author": "İskender Pala",
+      "id": 6
+    }
+
+  ],
+  "image": [
+    {
+      "url":"https://st3.myideasoft.com/shop/aa/11/myassets/products/012/aksam-yildizi-iskender-pala-bir-gobeklitepe-romani-kapi-yayinlarikitap-takipcileri-konya-elif-kitabevi-konya-roman-yerli-son-cikan-satin-al-siparis.jpg?revision=1581631251"
+    },
+    {
+      "url": "https://i.dr.com.tr/cache/600x600-0/originals/0000000105409-1.jpg"
+    },
+    {
+      "url": "https://i.dr.com.tr/cache/500x400-0/originals/0000000683683-1.jpg"
+    },
+    {
+      "url": "https://content.babil.com/urun/9dfc48492c6a441993af84a34217b30c/Front/Big"
+    },
+    {
+      "url": "https://www.kitapsec.com/image/urun/2016/03/11/Resim_1457701499.jpg"
+    }
+  ],
+  "autors": [
+    {
+      "name": "Stefan Zweig",
+      "image": "https://cdn.1000kitap.com/k/resimler/yazarlar/743_IJCZ6_1524333363.jpg"
+    },
+    {
+      "name": "Sabahattin Ali",
+      "image": "https://icdn.ensonhaber.com/app/resizefit-1200x1200-smart/resimler/diger/sabahattin-ali_4836.jpg"
+    },
+    {
+      "name": "Mustafa Kutlu",
+      "image": "https://iasbh.tmgrup.com.tr/2f2b61/1200/627/0/11/630/340?u=https://isbh.tmgrup.com.tr/sbh/2020/03/25/mustafa-kutlu-kimdir-yazar-mustafa-kutlu-nereli-ve-kac-yasinda-1585168725340.jpg"
+    },
+    {
+      "name": "Fyador Dostoyevski",
+      "image": "https://oggito.blob.core.windows.net/images/full/2017/1/ulkerince2.jpg"
+    },
+    {
+      "name": "Jose Saramoga",
+      "image": "https://www.arkakapak.com/wp-content/uploads/2019/03/saramago-1024x891.jpg"
+    },
+    {
+      "name": "Geaorge Orwel",
+      "image": "https://www.biyografi.info/personpicture-fb/georgeorwell.jpg"
+    },
+    {
+      "name": "Tolstoy",
+      "image": "https://www.dunyabizim.com/images/haberler/2019/04/tolstoy_un_turkiye_ve_muslumanlarla_iliskisi_nasildi_h22811_36bfe.jpg"
+    },
+    {
+      "name": "İlber Ortaylı",
+      "image": "https://www.timeturk.com/resim/detay/72/722180.jpg"
+    },
+    {
+      "name": "Zülfü Livaneli",
+      "image": "https://static.birgun.net/resim/haber-detay-resim/2020/03/19/zulfu-livaneli-den-koronavirus-iddialarina-iliskin-aciklama-703180-5.jpg"
+    },
+    {
+      "name": "Victor Hugo",
+      "image": "https://cdn.1000kitap.com/k/resimler/yazarlar/173_Victor_Hugo320.jpg"
+    },
+    {
+      "name": "Franz Kafka",
+      "image": "https://i.dr.com.tr/pimages/Content/Uploads/ArtistImages/artist__173416.jpg"
+    },
+    {
+      "name": "Yaşar Kemal",
+      "image": "https://cdn.islamansiklopedisi.org.tr/madde/EK-2/yasar-kemal-1.jpg"
+    },
+    {
+      "name": "Micheal Ende",
+      "image": "https://cdn.1000kitap.com/resimler/yazarlar/1985_Michael_Ende327.jpg"
+    },
+    {
+      "name": "Varol Yaşaroğlu",
+      "image": "https://www.biyografi.info/personpicture-fb/varolyasaroglu.jpg"
+    }
+  ]
+}
